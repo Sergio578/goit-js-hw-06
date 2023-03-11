@@ -1,0 +1,21 @@
+{
+  "editor.fontSize": 15,
+  "files.autoSave": "onFocusChange",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Andromeda Bordered",
+  "workbench.productIconTheme": "productIconThemes",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.startupEditor": "none",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
